@@ -1,0 +1,26 @@
+{
+  "name": "biblioteca_romano",
+  "version": "1.0.0",
+  "description": "Biblioteca de converter romano para numero arabico",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatianaemanuelle/biblioteca_romano.git"
+  },
+  "author": "Thatiana Emanuelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatianaemanuelle/biblioteca_romano/issues"
+  },
+  "homepage": "https://github.com/thatianaemanuelle/biblioteca_romano#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
