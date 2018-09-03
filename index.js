@@ -1,5 +1,5 @@
-const decimal = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
-const roman = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+const decimal = [1449, 600, 500, 400, 100, 80, 50, 6, 5, 4, 3, 2, 1];
+const roman = ["MCDXLIX", "DC", "D", "CD", "C", "LXXX", "L", "VI", "5", "IV", "III", "II", "I"];
 
 function romanToInt(str) {
     try {
